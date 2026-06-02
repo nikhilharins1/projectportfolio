@@ -59,6 +59,19 @@ Future projects may include both Spanish and English documentation depending on 
 * Data Visualization
 * Stakeholder Recommendations
 
+### 2. Customer Segmentation via PCA
+* Dimensionality Reduction & Extraction
+* Component Rotation & Interpretation
+* Data Visualization & Insights
+* Stakeholder Recommendations
+
+### 3. Bank Customer Segmentation via k-Means
+* Data Preprocessing & Encoding
+* Clustering & Model Execution
+* Cluster Profiling & Evaluation
+* Business Insights & Strategy
+
+
 ---
 
 ## Continuous Development
